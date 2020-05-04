@@ -1,0 +1,2 @@
+rootProject.name='Lynda_Practice1'
+include ':app'
